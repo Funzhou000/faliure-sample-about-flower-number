@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(43,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(54,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(69,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(36,33): warning C4101: “m”: 未引用的局部变量
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(36,29): warning C4101: “k”: 未引用的局部变量
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(36,31): warning C4101: “l”: 未引用的局部变量
+C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\red flower number start at 24-10-7\源.cpp(36,35): warning C4101: “n”: 未引用的局部变量
+  red flower number start at 24-10-7.vcxproj -> C:\Users\Administrator\Desktop\code-for-C-vs\red flower number start at 24-10-7\x64\Debug\red flower number start at 24-10-7.exe
